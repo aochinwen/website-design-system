@@ -29,8 +29,7 @@
 div{
     position: relative;
     padding: 5px auto;
-    margin: 20px auto;
-    margin-left: 150px;
+    margin: 20px 10px;
     border: 2px solid black;
     border-radius: 5px;
     text-align: center;
@@ -108,7 +107,9 @@ p {
 
 body {
     font-family:'Roboto Mono','Space Mono',monospace;
+    margin-left: 150px;
 }
+
 
 .text-style div {
     display:inline-block;

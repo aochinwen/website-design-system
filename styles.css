@@ -111,12 +111,13 @@ body {
 
 .text-style div {
     display:inline-block;
-    margin: 0 auto;
+    margin: 10px auto;
     padding: 0 auto;
     height: 250px;
     width: 400px;
     border: 2px dashed lightgray;
     vertical-align: top;
+    
 }
 
 .text-style li {
